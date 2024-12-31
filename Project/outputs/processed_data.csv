@@ -1,0 +1,7 @@
+Gas Name,Dielectric Strength (kV/cm),GWP,Breakdown Voltage (kV),Toxicity,Cost ($/kg),Dielectric Strength (kV/mm),Cost Efficiency (kV/cm per $)
+SF6,89,23500,350,Low,40,8.9,2.225
+C4F7N,120,2090,300,Moderate,35,12.0,3.4285714285714284
+g³,115,350,310,Moderate,38,11.5,3.026315789473684
+CO2,60,1,100,,5,6.0,12.0
+Nitrogen,50,0,90,,3,5.0,16.666666666666668
+Fluoroketones,110,1,280,Low,50,11.0,2.2

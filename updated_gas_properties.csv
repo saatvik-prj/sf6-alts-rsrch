@@ -1,0 +1,7 @@
+Gas Name,Dielectric Strength (kV/cm),GWP,Breakdown Voltage (kV),Toxicity,Cost ($/kg)
+SF6,56.0,24300,14.0,Low,40
+Fluoroketones,95.2,1,18.4,Moderate,50
+G3,123.2,2100,27.5,Low,30
+Heptafluorobutyronitrile,123.2,2750,27.5,Low,30
+CO2,16.8,1,4.2,,5
+Nitrogen,20.16,273,5.04,,3
